@@ -1,0 +1,2 @@
+Hehe
+Testing this file.txt file in fsmodule.js
